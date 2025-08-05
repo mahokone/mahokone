@@ -10,7 +10,7 @@ I’m passionate about reverse engineering, embedded systems, and solving tough 
 
 I earned my B.S. in Computer Engineering from Kennesaw State University in 2023, with a minor in French (yes, I speak a bit of that too). Now, I’m diving deep into reverse engineering, malware analysis, compiler construction, and radio frequency exploitation — through both classes and hands-on projects.
 
-Over the past few years, I’ve interned twice with the **Department of Homeland Security**, focusing on embedded device security, LTE baseband vulnerabilities, and RF protocol research. I also spent a summer at **MIL Corporation**, helping improve security for a U.S. Navy systems.
+Over the past few years, I’ve interned twice with the **Department of Homeland Security**, focusing on embedded device security, LTE baseband vulnerabilities, and RF protocol research. I also spent a summer at **MIL Corporation**, helping improve security for various Systems.
 
 ---
 
